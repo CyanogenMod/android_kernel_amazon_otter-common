@@ -1,6 +1,6 @@
 CONFIG_MACH_OMAP_4430_KC1=y
 CONFIG_OTTER=y
-CONFIG_CMDLINE="mem=512M androidboot.selinux=permissive newbootargs"
+CONFIG_CMDLINE="mem=512M newbootargs"
 CONFIG_CMDLINE_FROM_BOOTLOADER=y
 # CONFIG_CMDLINE_EXTEND is not set
 
